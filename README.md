@@ -42,3 +42,10 @@ Test your memory and try to complete the board with the fewest moves possible!
 ---
 
 ## 📂 Project Structure
+index.html
+style.css
+script.js
+provided.js
+audio/     (sound effects)
+img/       (card images)
+
